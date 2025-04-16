@@ -6,18 +6,22 @@ Olá! Seja muito bem-vindo(a) ao meu perfil no GitHub. Aqui você vai encontrar 
 
 Sou apaixonado por tecnologia e estou sempre em busca de aprender algo novo. Tenho interesse especial por:
 
-- ⚙️ Desenvolvimento de software
-- 🔧 Projetos de automação e mecatrônica
-- 🌐 Aplicações web com PHP, JavaScript e React
-- 📊 Integração com banco de dados e sistemas inteligentes
+- ⚙️ Desenvolvimento de software  
+- 🔧 Projetos de automação e mecatrônica  
+- 🌐 Aplicações web com PHP, JavaScript e React  
+- 📊 Integração com banco de dados e sistemas inteligentes  
 
 ## 📂 Repositórios em destaque
+<div>
+  <img align="center" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YesleMB&layout=pie&theme=radical" />
+</div>
+
 
 Aqui estão alguns dos projetos que você pode explorar:
 
-- 🔧 **[Nome do Projeto](link)** – Breve descrição do projeto
-- 📈 **[Nome do Projeto](link)** – Breve descrição do projeto
-- 🤖 **[Nome do Projeto](link)** – Breve descrição do projeto
+- 🔧 **[Nome do Projeto](#)** – Breve descrição do projeto  
+- 📈 **[Nome do Projeto](#)** – Breve descrição do projeto  
+- 🤖 **[Nome do Projeto](#)** – Breve descrição do projeto  
 
 ## 📫 Contato
 
